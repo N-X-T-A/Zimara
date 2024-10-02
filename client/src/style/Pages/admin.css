@@ -1,0 +1,152 @@
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-background: #f4f4f5;
+    --color-gray: #d6d4d4;
+    --primary-color: #3f51b5;
+    --text-color-gray: #888888;
+    --text-dec: #b3b3b3;
+    --color-orange: #ff8343;
+}
+
+.page-title .cardadmin {
+    display: flex;
+    align-items: center;
+    background-color: var(--primary-color); /* Dark background color similar to the image */
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    color: #fff; /* White text */
+}
+
+.page-title .icon-container {
+    background-color: var(--color-orange); /* Blue background for the icon */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+}
+
+.page-title .icon {
+    color: #fff;
+    font-size: 24px;
+}
+
+.page-title .info {
+    margin-left: 15px;
+}
+
+.page-title .count {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.page-title .description {
+    font-size: 14px;
+    color: var(--text-dec); /* Light grey for the description text */
+    margin-top: 5px;
+}
+.user-table {
+    width: 100%;
+}
+.user-table {
+    width: 100%;
+    border-collapse: collapse; /* Gộp các đường viền */
+}
+
+.user-table th,
+.user-table td {
+    border: 1px solid #ddd; /* Đường viền cho các ô */
+    padding: 8px; /* Khoảng cách bên trong ô */
+    text-align: left; /* Căn trái cho văn bản */
+}
+
+.user-table th {
+    background-color: #f2f2f2; /* Màu nền cho tiêu đề */
+}
+
+.user-table tr:hover {
+    background-color: #f5f5f5; /* Màu nền khi di chuột qua hàng */
+}
+.shop-table {
+    width: 100%;
+}
+.shop-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.shop-table th,
+.shop-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.shop-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.shop-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.shop-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.shop-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.shop-link:hover {
+    text-decoration: underline;
+}
+.category-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.category-table th:nth-child(1),
+.category-table td:nth-child(1) {
+    width: 2%; /* Chiều rộng cột ID */
+}
+
+.category-table th:nth-child(2),
+.category-table td:nth-child(2) {
+    width: 15%; /* Chiều rộng cột Tên Danh Mục */
+}
+
+.category-table th:nth-child(3),
+.category-table td:nth-child(3) {
+    width: 83%;
+}
+
+.category-table th,
+.category-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.category-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.category-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.category-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.category-table td .row .col-2 {
+    border-right: 1px solid #ddd;
+}

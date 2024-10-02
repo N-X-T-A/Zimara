@@ -1,0 +1,22 @@
+{
+    "Shop": [
+        {
+            "id": 1000001,
+            "name": "Catus",
+            "imgaelogo": "",
+            "Product": [
+                {
+                    "id-item": 10000011,
+                    "badge": "Sale",
+                    "image-products": "https://i.imgur.com/xdbHo4E.png",
+                    "category": "Women, Bag",
+                    "title-products": "Women Litter Bag"
+                }
+            ],
+            "price": {
+                "discounted": "1000000",
+                "original": "200000"
+            }
+        }
+    ]
+}

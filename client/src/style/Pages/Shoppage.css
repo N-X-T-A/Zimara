@@ -1,0 +1,68 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light background for contrast */
+}
+
+/* Header Styles */
+.Header-Shop-Detail {
+    background-color: #ffffff; /* White background for the header */
+    padding: 20px;
+    border-bottom: 1px solid #dee2e6; /* Light border */
+}
+
+.wsk-cp-img {
+    display: flex;
+    justify-content: center;
+}
+.wsk-cp-img img {
+    width: 80%;
+    max-height: 210px;
+    min-height: 210px;
+    transition: all 0.2s ease-in-out;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+}
+img.img-fluid-shoppage {
+    border-radius: 20px;
+}
+
+.col-4.image-shoppage {
+    display: flex;
+    justify-content: center;
+}
+h1.mt-3 {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.col-md-3.text-center {
+    border-right: 1px solid #ffffff;
+}
+
+.infor-shoppage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3f51b5;
+    height: 10rem;
+}
+.title-shoppage p {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.title-shoppage span {
+    color: #ff8343;
+    margin-left: 10px;
+}
+.AllProductShoppage {
+    display: flex;
+    justify-content: center;
+    height: 3rem;
+}
+.AllProductShoppage h4 {
+    font-size: 1.3rem;
+    font-weight: 700;
+}

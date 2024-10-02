@@ -1,0 +1,15 @@
+.banner-container .slick-slide img {
+    display: block;
+    width: 100%;
+}
+.banner-container .side-banner {
+    height: 50%;
+}
+.side-banners .col {
+    height: 100%;
+}
+
+.side-banners .main-banner {
+    height: 50%;
+    object-fit: cover;
+}

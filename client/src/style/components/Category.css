@@ -1,0 +1,25 @@
+.slick-prev:before,
+.slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: 0.75;
+    color: #000000;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slider-card-category .category-card {
+    text-align: center;
+    padding: 10px;
+}
+
+.slider-card-category .category-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.slider-card-category .category-card h2 {
+    margin: 10px 0;
+    font-size: 12px;
+}

@@ -1,0 +1,1459 @@
+{
+    "shops": [
+      {
+        "shop_id":111,
+        "shop_name":"Apple Flagship Store",
+        "Products":[
+          { "product_id": 111, "name": "Điện thoại iPhone 15 Pro Max 256GB", "sale_price": 30390000, "product_image":"https://down-vn.img.susercontent.com/file/05ed832c5cdc8a7e5c5d64d1622c351e", "stock": 2, "classification_name":["Titan - Tự Nhiên"], "link_to_product":"https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-Apple-iPhone-15-Pro-Max-256GB-i.88201679.20493037179?xptdk=c0b7086b-c2b4-43c0-9a46-fb2809b6dda0"},
+          { "product_id": 222, "name": "Tai nghe AirPods Pro (thế hệ thứ 2) với Hộp Sạc MagSafe (USB-C)", "sale_price": 5690000, "product_image":"https://down-vn.img.susercontent.com/file/00d05024f492dcec4efae04c1521b66a", "stock": 1000, "classification_name":["Chính hãng"], "link_to_product":"https://shopee.vn/Tai-nghe-AirPods-Pro-(th%E1%BA%BF-h%E1%BB%87-th%E1%BB%A9-2)-v%E1%BB%9Bi-H%E1%BB%99p-S%E1%BA%A1c-MagSafe-(USB-C)-i.88201679.21693729352?xptdk=ae6bc768-2955-41b6-8ae9-42ae5d997c40"},
+          { "product_id": 333, "name": "Apple MacBook Air M2 2022 13.6 inch, 16GB/256GB/8C CPU", "sale_price": 34999000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ltcncgvnc6v87d", "stock": 8, "classification_name":["Space Grey"], "link_to_product":"https://shopee.vn/Apple-MacBook-Air-M2-2022-13.6-inch-16GB-256GB-8C-CPU-10C-GPU-i.88201679.24871020824?xptdk=3a342d70-0e04-4fbb-9357-8e185ebdc2b4"}
+        ]
+      },
+      {
+        "shop_id":222,
+        "shop_name":"Razer Flagship Store",
+        "Products":[
+          { "product_id": 444, "name": "Bàn phím Gaming Razer BlackWidow V3 Mini 68 Phím | 2.4 Ghz", "sale_price": 2329000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfcqizxsn9md09", "stock": 5, "classification_name":["Green"], "link_to_product":"https://shopee.vn/B%C3%A0n-Ph%C3%ADm-Gaming-Razer-BlackWidow-V3-Mini-68-Ph%C3%ADm-2.4GHz-Bluetooth-C%C3%A1p-USB-C-N-key-v%E1%BB%9Bi-Anti-ghosting-ABS-double-i.891464052.19861380690?xptdk=cdee8d55-b056-4622-a4d0-dd7e606fa521"},
+          { "product_id": 555, "name": "Chuột Gaming Razer Viper V3 | HyperSpeed Wireless 2.4 Ghz", "sale_price": 1690000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llor8l6tlxi723", "stock": 28, "classification_name":["Black"], "link_to_product":"https://shopee.vn/Chu%E1%BB%99t-Gaming-Razer-Viper-V3-HyperSpeed-Wireless-2.4Ghz-30000-DPI-Switches-Gen-2-750-IPS-6-N%C3%BAt-L%E1%BA%ADp-Tr%C3%ACnh-82g-i.891464052.23154857155?xptdk=d168714e-2e60-45d7-af24-d7cf9bf89a3f"}
+        ]
+      },
+      {
+        "shop_id":333,
+        "shop_name":"LeeZone",
+        "Products":[
+          { "product_id": 666, "name": "Áo khoác Kaki name LeeZone cao cấp | Kaki khóa kéo Đen", "sale_price": 270000, "product_image":"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpkso8ttdmcb72", "stock": 14, "classification_name":["L", "Đen"], "link_to_product":"https://shopee.vn/%C3%81o-kho%C3%A1c-Kaki-nam-LeeZone-cao-c%E1%BA%A5p-Kaki-kh%C3%B3a-k%C3%A9o-%C4%90en-ch%E1%BA%A7n-tr%C3%A1m-i.46855166.25254506538?xptdk=e5123e7a-3219-4621-b19f-313119c8f513"}
+        ]
+      }
+    ],
+    "PlaceOrder":[
+      {"id": 111, "shop_name":"Apple Flagship Store","name":"Apple MacBook Air M2 2022 13.6 inch, 16GB/256GB/8C CPU", "image":"https://down-vn.img.susercontent.com/file/05ed832c5cdc8a7e5c5d64d1622c351e", "classification_name":["Titan - Tự Nhiên"], "quantityCount":2, "totalPrice": 60780000},
+      {"id": 222, "shop_name":"Apple Flagship Store","name":"Tai nghe AirPods Pro (thế hệ thứ 2) với Hộp Sạc MagSafe (USB-C)", "image":"https://down-vn.img.susercontent.com/file/00d05024f492dcec4efae04c1521b66a", "classification_name":["Chính hãng"], "quantityCount":1, "totalPrice": 5690000}
+    ],
+
+    "categories": [
+        {
+            "id": 1,
+            "name": "Thời Trang Nam",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "Mobile Phones",
+                    "products": [
+                        {
+                            "id": 1001,
+                            "name": "iPhone 14",
+                            "normalprice": 1200,
+                            "discountprice": 1000,
+                            "colors": ["Black", "White", "Blue"],
+                            "ratings": 4.8
+                        },
+                        {
+                            "id": 1002,
+                            "name": "Samsung Galaxy S22",
+                            "normalprice": 1100,
+                            "discountprice": 950,
+                            "colors": ["Black", "Gold"],
+                            "ratings": 4.7
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "Laptops",
+                    "products": [
+                        {
+                            "id": 1003,
+                            "name": "MacBook Pro",
+                            "normalprice": 2500,
+                            "discountprice": 2200,
+                            "colors": ["Gray", "Silver"],
+                            "ratings": 4.9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Điện Thoại & Phụ Kiện",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 201,
+                    "name": "Men's Clothing",
+                    "products": [
+                        {
+                            "id": 2001,
+                            "name": "Casual T-Shirt",
+                            "normalprice": 20,
+                            "discountprice": 15,
+                            "colors": ["Red", "Blue", "Green"],
+                            "ratings": 4.3
+                        }
+                    ]
+                },
+                {
+                    "id": 202,
+                    "name": "Women's Clothing",
+                    "products": [
+                        {
+                            "id": 2002,
+                            "name": "Summer Dress",
+                            "normalprice": 50,
+                            "discountprice": 35,
+                            "colors": ["Yellow", "Pink"],
+                            "ratings": 4.6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Thiết Bị Điện Tử",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Máy Tính",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Máy Ảnh",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Thiết Bị Điện Gia Dụng",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Thể Thao",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ô Tô & Xe Máy & Xe Đạp",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ba Lô& Túi Nam",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Đồ Chơi",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Thú Cưng",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Dụng Cụ Đa Dụng",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Thời Trang Nữ",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Mẹ Và Bé",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Nhà Cửa Đời Sống",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sắc Đẹp",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sức Khỏe",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Giày Dép Nữ",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Bách Hóa Online",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Nhà Sách Online",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Thời Trang Trẻ Em",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "Mobile Phones",
+                    "products": [
+                        {
+                            "id": 1001,
+                            "name": "iPhone 14",
+                            "normalprice": 1200,
+                            "discountprice": 1000,
+                            "colors": ["Black", "White", "Blue"],
+                            "ratings": 4.8
+                        },
+                        {
+                            "id": 1002,
+                            "name": "Samsung Galaxy S22",
+                            "normalprice": 1100,
+                            "discountprice": 950,
+                            "colors": ["Black", "Gold"],
+                            "ratings": 4.7
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "Laptops",
+                    "products": [
+                        {
+                            "id": 1003,
+                            "name": "MacBook Pro",
+                            "normalprice": 2500,
+                            "discountprice": 2200,
+                            "colors": ["Gray", "Silver"],
+                            "ratings": 4.9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Giặc Giũ",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 201,
+                    "name": "Men's Clothing",
+                    "products": [
+                        {
+                            "id": 2001,
+                            "name": "Casual T-Shirt",
+                            "normalprice": 20,
+                            "discountprice": 15,
+                            "colors": ["Red", "Blue", "Green"],
+                            "ratings": 4.3
+                        }
+                    ]
+                },
+                {
+                    "id": 202,
+                    "name": "Women's Clothing",
+                    "products": [
+                        {
+                            "id": 2002,
+                            "name": "Summer Dress",
+                            "normalprice": 50,
+                            "discountprice": 35,
+                            "colors": ["Yellow", "Pink"],
+                            "ratings": 4.6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Voucher",
+            "image": "https://down-vn.img.susercontent.com/file/687f3967b7c2fe6a134a2c11894eea4b@resize_w320_nl.webp",
+            "subcategories": [
+                {
+                    "id": 301,
+                    "name": "Furniture",
+                    "products": [
+                        {
+                            "id": 3001,
+                            "name": "Wooden Chair",
+                            "normalprice": 100,
+                            "discountprice": 80,
+                            "colors": ["Brown", "Black"],
+                            "ratings": 4.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Shops": [
+        {
+            "idshop": 11,
+            "name": "Apple Flagship Store",
+            "logo": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "rating": 4.5,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "10k",
+            "join": "6 năm trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "25.123.000.000",
+                    "revenue2monthsago": "24.123.000.000",
+                    "revenue3monthsago": "31.123.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 111,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "idtype": 1111,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "39.790.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "idtype": 1112,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "31.790.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "idtype": 1113,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "idtype": 1114,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 112,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "30",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "35",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 113,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "25",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 12,
+            "name": "Apple Flagship Store",
+            "logo": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "rating": 4.5,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "10k",
+            "join": "6 năm trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "25.123.000.000",
+                    "revenue2monthsago": "24.123.000.000",
+                    "revenue3monthsago": "31.123.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 111,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "idtype": 1111,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "39.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "idtype": 1112,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "31.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "idtype": 1113,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "idtype": 1114,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 112,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 113,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 13,
+            "name": "Apple Flagship Store",
+            "logo": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "rating": 4.5,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "10k",
+            "join": "6 năm trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "25.123.000.000",
+                    "revenue2monthsago": "24.123.000.000",
+                    "revenue3monthsago": "31.123.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 111,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "idtype": 1111,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "idtype": 1112,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "31.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "idtype": 1113,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "idtype": 1114,
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 112,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 113,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "category": "Giày, Giày Thể Thao",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "31.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "32.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "33.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "price": {
+                                    "importpr": "28.790.000",
+                                    "original": "34.790.000",
+                                    "discounted": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Users": [
+        {
+            "userid": 10000000001,
+            "loginname": "itachis1",
+            "password": "Saladass1..",
+            "email": "ncat08122002@gmail.com",
+            "phonenumber": "0981583462",
+            "gender": ["nam", "nữ"],
+            "dateofbirth": "08-12-2002",
+            "username": "Nguyễn Văn A",
+            "imageuser": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "address": "11 Bạch Đằng",
+            "ward": "7",
+            "city": "Đà Lạt",
+            "conscious": "Lâm Đồng",
+            "oders": [
+                {
+                    "odderid": 100000001,
+                    "status": "pending",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000002,
+                    "status": "canceled",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000003,
+                    "status": "completed",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000004,
+                    "status": "shipping",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "userid": 10000000002,
+            "loginname": "itachis1",
+            "password": "Saladass1..",
+            "email": "ncat08122002@gmail.com",
+            "phonenumber": "0981583462",
+            "gender": ["nam", "nữ"],
+            "dateofbirth": "08-12-2002",
+            "username": "Nguyễn Văn A",
+            "imageuser": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "address": "11 Bạch Đằng",
+            "ward": "7",
+            "city": "Đà Lạt",
+            "conscious": "Lâm Đồng",
+            "oders": [
+                {
+                    "odderid": 100000005,
+                    "status": "pending",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000006,
+                    "status": "canceled",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000007,
+                    "status": "completed",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000008,
+                    "status": "shipping",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "discounted": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Shop": [
+        {
+            "id": 1000001,
+            "name": "Catus",
+            "imgaelogo": "",
+            "Product": [
+                {
+                    "id-item": 10000011,
+                    "badge": "Sale",
+                    "image-products": "https://i.imgur.com/xdbHo4E.png",
+                    "category": "Women, Bag",
+                    "title-products": "Women Litter Bag"
+                }
+            ],
+            "price": {
+                "discounted": "1000000",
+                "original": "200000"
+            }
+        }
+    ]
+}
+  

@@ -1,0 +1,254 @@
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-background: #f4f4f5;
+    --color-gray: #d6d4d4;
+    --primary-color: #3f51b5;
+    --text-color-gray: #888888;
+    --color-orange: #ff8343;
+}
+main.col-md-9.ms-sm-auto.col-lg-10 {
+    background-color: white;
+}
+
+.master-store-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.master-store-content {
+    display: flex;
+    flex: 1;
+}
+
+.sidebar-ms {
+    width: 250px;
+    background-color: var(--color-white);
+    padding: 10px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-ms ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-ms li {
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+button.nav-link {
+    width: 100%;
+}
+
+.sidebar-ms li:hover,
+.sidebar-ms li.active {
+    background-color: #ddd;
+}
+.table-bordered {
+    border: 2px solid #dee2e6;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 2px solid #dee2e6;
+    padding: 10px;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: auto;
+}
+
+#right-sidebar-ms {
+    background-color: var(--color-white);
+}
+.custom-modal-dialog {
+    max-width: 80%;
+    margin: 1.75rem auto;
+}
+
+.custom-modal-content {
+    border-radius: 0.5rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.custom-modal-header {
+    border-bottom: 1px solid #dee2e6;
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.custom-modal-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.custom-modal-body {
+    padding: 1.5rem;
+}
+
+.custom-modal-footer {
+    border-top: 1px solid #dee2e6;
+    background-color: #f8f9fa;
+}
+
+.custom-modal-footer .btn {
+    border-radius: 0.25rem;
+}
+
+.custom-modal-footer .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.custom-modal-footer .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.modal-body .row {
+    margin-bottom: 1rem;
+}
+
+.modal-body .col-md-4 {
+    margin-bottom: 0.5rem;
+}
+
+.modal-body .col-md-8 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.table {
+    width: 100%;
+}
+.table-striped td:nth-child(1),
+.table-striped th:nth-child(1) {
+    width: 50px;
+    font-size: 0.8rem;
+}
+
+.table-striped td:nth-child(4),
+.table-striped th:nth-child(4) {
+    width: 170px;
+}
+
+.table-striped td:nth-child(5),
+.table-striped th:nth-child(5) {
+    width: 200px;
+}
+
+.table-striped td:nth-child(6),
+.table-striped th:nth-child(6) {
+    width: 150px;
+}
+
+.table-striped td:nth-child(7),
+.table-striped th:nth-child(7) {
+    width: 150px;
+}
+.table-striped td:nth-child(8),
+.table-striped th:nth-child(8) {
+    width: 80px;
+}
+.table-striped td:nth-child(9),
+.table-striped th:nth-child(9) {
+    width: 130px;
+}
+
+.table {
+    table-layout: fixed;
+}
+
+.table-striped p {
+    font-size: 0.9rem;
+}
+.table-striped td {
+    border: 1px solid var(--color-gray);
+}
+.wider-column {
+    width: 100px;
+}
+
+.add-product-table {
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.add-product-table .table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.add-product-table .table th,
+.add-product-table .table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.add-product-table .table th {
+    background-color: #f2f2f2;
+}
+
+.add-product-table .table tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+/*  */
+
+.Sales {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.Sales {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Sales th,
+.Sales td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #dee2e6;
+}
+
+.sales-header th {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.sales-row:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.sales-row:hover {
+    background-color: #e9ecef;
+}
+
+.Sales td div {
+    margin-bottom: 5px;
+}
+
+.Sales td h5 {
+    font-size: 14px;
+    margin: 0;
+}
+
+.Sales td p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: bold;
+}

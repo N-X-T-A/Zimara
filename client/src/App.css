@@ -1,0 +1,28 @@
+* {
+    border: none;
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-background: #f4f4f5;
+    --color-gray: #d6d4d4;
+    --primary-color: #0033a0;
+    --text-color-gray: #888888;
+    --color-orange: #ff8343;
+}
+.App {
+    background-color: var(--color-background);
+    min-height: 100vh;
+}
+
+.main_color{
+    color: #0033a0;
+}
+
+.main_margin_items{
+    background-color: white;
+    margin-right: 20px;
+}

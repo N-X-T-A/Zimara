@@ -1,0 +1,28 @@
+.thumbnail-slider {
+    text-align: center;
+    width: 80%;
+}
+.main-image {
+    display: flex;
+    justify-content: center;
+}
+
+.main-image img {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.thumbnail-carousel {
+    display: flex;
+    justify-content: center;
+}
+
+.thumbnail-carousel .slick-slide {
+    margin: 0 5px;
+}
+
+.thumbnail-slide img {
+    width: 100%;
+    cursor: pointer;
+}

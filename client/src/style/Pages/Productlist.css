@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i');
+body {
+    /* font-family: 'Muli', sans-serif; */
+    background: #ddd;
+}
+.row.filter-category {
+    background: rgb(255, 255, 255);
+    padding: 10px 0;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 10px;
+}
+.toggle-price-slider,
+.toggle-brand-filter {
+    background-color: #007bff;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.toggle-price-slider:hover,
+.toggle-brand-filter:hover {
+    background-color: #0056b3;
+}
+
+.brand-filter {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 255);
+}
+button.category-button {
+    margin-left: 10px;
+}
+.category-item {
+    margin: 10px 0;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+}
+.category-list {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.sub-category-item {
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.brand-filter h5 {
+    margin-bottom: 10px;
+}
+button.toggle-price-slider {
+    margin-bottom: 10px;
+}
+
+.toggle-price-slider h3,
+.toggle-brand-filter h3 {
+    margin-left: 10px;
+}
+.row.brand-filter {
+    margin: 0;
+}
+.item-brand-filter label {
+    display: flex;
+}
+.item-brand-filter label .text {
+    margin-left: 5px;
+}
+.input[type='checkbox'] {
+    display: none;
+}
+
+.custom-checkbox {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #333;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+}
+
+.custom-checkbox::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 2px;
+    opacity: 0;
+}
+
+.input[type='checkbox']:checked + .custom-checkbox::after {
+    opacity: 1;
+}
+
+input#priceRange {
+    width: 80%;
+}
+
+@media (max-width: 768px) {
+    .col-3,
+    .col-9 {
+        width: 100%;
+    }
+}
+.product-item {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+}
+
+.wsk-cp-product {
+    padding: 15px;
+    /* margin: 20px auto; */
+}
+
+.wsk-cp-img img {
+    width: 100%;
+    max-height: 210px;
+    min-height: 210px;
+    transition: all 0.2s ease-in-out;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+}
+
+.wsk-cp-text .category {
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+}
+.wsk-cp-text .category > span {
+    padding: 12px 30px;
+    border: 1px solid #313131;
+    background: #212121;
+    color: #fff;
+    box-shadow:
+        0 19px 38px rgba(0, 0, 0, 0.3),
+        0 15px 12px rgba(0, 0, 0, 0.22);
+    border-radius: 27px;
+    transition: all 0.05s ease-in-out;
+}
+.wsk-cp-product:hover .wsk-cp-text .category > span {
+    border-color: #ddd;
+    box-shadow: none;
+    padding: 11px 28px;
+}
+.wsk-cp-product:hover .wsk-cp-text .category {
+    margin-top: 0px;
+}
+.wsk-cp-text .title-product {
+    text-align: center;
+}
+.title-product {
+    margin: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.title-product {
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.title-product h3 {
+    display: inline-block;
+    animation: marquee 10s linear infinite;
+}
+@keyframes title-product {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+.wsk-cp-text .title-product h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px auto;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+.title-describe {
+    margin: 20px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: auto;
+    line-height: 1.2em;
+}
+.wsm-cp-content {
+    margin: 20px;
+    border-bottom: 1px solid;
+}
+.description-card {
+    margin: 10px 20px;
+}
+.row.card-footer {
+    margin: 10px;
+}
+
+.wsf-left .price {
+    height: 60px;
+    margin-left: 20px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #ff9800;
+}
+.wsf-left .price span {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #c0c0c0;
+    text-decoration: line-through;
+}
+a.buy-btn {
+    display: block;
+    color: #212121;
+    text-align: center;
+    font-size: 18px;
+    width: 50px;
+    height: 50px;
+    line-height: 35px;
+    border-radius: 50%;
+    border: 1px solid #212121;
+    transition: all 0.2s ease-in-out;
+}
+a.buy-btn:hover,
+a.buy-btn:active,
+a.buy-btn:focus {
+    border-color: #ff9800;
+    background: #ff9800;
+    color: #fff;
+    text-decoration: none;
+}
+.wsk-btn {
+    display: inline-block;
+    color: #212121;
+    text-align: center;
+    font-size: 18px;
+    transition: all 0.2s ease-in-out;
+    border-color: #ff9800;
+    background: #ff9800;
+    padding: 12px 30px;
+    border-radius: 27px;
+    margin: 0 5px;
+}
+.wsk-btn:hover,
+.wsk-btn:focus,
+.wsk-btn:active {
+    text-decoration: none;
+    color: #fff;
+}
+.red {
+    color: #f44336;
+    font-size: 22px;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+a.buy-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.page-btn {
+    background-color: #007bff; /* Primary color */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.page-btn:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+.page-btn.active {
+    background-color: #0056b3; /* Active button style */
+}
+
+.page-btn:focus {
+    outline: none; /* Remove focus outline */
+}

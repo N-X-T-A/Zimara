@@ -1,0 +1,39 @@
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
+import '../style/components/FlashSale.css';
+
+const FlashSale = () => {
+    const [shops, setShops] = useState([]);//doi nay
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
+
+    useEffect(() => {
+        const fetchShops = async () => {
+            try {
+                const response = await axios.get('http://localhost:3000/Shops');
+                setShops(response.data);
+                setLoading(false);
+            } catch (err) {
+                setError(err);
+                setLoading(false);
+            }
+        };
+
+        fetchShops();
+    }, []);
+
+    // if (loading) return <div>Loading...</div>;
+    // if (error) return <div>Error: {error.message}</div>;
+
+    return (
+        <div className="container Flash-sale">
+            {shops.map((shop) => (
+                <div key={shop.id} className="shop">
+                    <h2>{shop.name}</h2>
+                </div>
+            ))}
+        </div>
+    );
+};
+
+export default FlashSale;

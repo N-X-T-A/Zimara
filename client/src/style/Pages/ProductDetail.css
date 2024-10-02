@@ -1,0 +1,240 @@
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-background: #f4f4f5;
+    --color-gray: #d6d4d4;
+    --primary-color: #3f51b5;
+    --text-color-gray: #888888;
+    --color-orange: #ff8343;
+}
+
+.Product-Detail {
+    background-color: var(--color-background);
+}
+.Product-Detail .container .Product-Container {
+    background-color: var(--color-white);
+}
+.col-5.Thumnail {
+    display: flex;
+    justify-content: center;
+}
+
+.star-rating {
+    display: flex;
+    align-items: center;
+}
+
+.rating-number {
+    font-size: clamp(10px, 4vw, 14px);
+    margin-right: 10px;
+    color: var(--color-orange);
+    font-weight: 700;
+}
+
+.star {
+    font-size: clamp(10px, 3vw, 14px);
+    margin-right: 2px;
+}
+.Evaluate-shop {
+    width: 50%;
+    padding-bottom: 10px;
+}
+.Evaluate-shop p {
+    font-size: clamp(1px, 2vw, 12px);
+    font-weight: clamp(500, 600, 700);
+}
+.Price-Product {
+    width: 60%;
+    padding-bottom: 10px;
+}
+.Price-Product .discounted {
+    font-size: clamp(1.5rem, 1.5rem, 1.5rem);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    color: var(--color-orange);
+}
+.Price-Product .original {
+    font-size: clamp(1rem, 1rem, 1rem);
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    color: var(--text-color-gray);
+    text-decoration: line-through;
+}
+.Deals {
+    width: 60%;
+    padding-bottom: 20px;
+}
+
+.Deals .deal-item {
+    background-color: #ff8343;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition:
+        background-color 0.3s,
+        transform 0.3s;
+    cursor: pointer;
+}
+
+.Product-Container .name-product h1 {
+    font-size: clamp(1.5rem, 1rem, 0.5px);
+    font-weight: 700;
+    color: var(--color-orange);
+    padding-bottom: 10px;
+}
+.color-product {
+    height: 100px;
+    width: 100%;
+    margin: auto;
+}
+.color-product .col-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid var(--text-color-gray);
+    border-radius: 8px;
+}
+.color-product .col-3:hover {
+    border: 2px solid var(--primary-color);
+}
+.color-product .col-3.selected {
+    border: 2px solid var(--color-orange);
+}
+.color-product .col-3 h3 {
+    font-weight: 600;
+    color: var(--color-black);
+}
+.number-input .row {
+    width: 60%;
+}
+
+.number-input .row .number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.number-input .row .input-number-product {
+    border: 2px solid var(--color-black);
+    border-radius: 10px;
+}
+
+.number-input .row .btn {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    width: 20%;
+    padding: 0.5rem 15px;
+    font-size: 18px;
+    cursor: pointer;
+    transition:
+        background-color 0.3s ease,
+        transform 0.2s ease;
+}
+
+.number-input .row .btn:active {
+    transform: scale(0.95);
+}
+
+.number-input .row .input {
+    width: 60%;
+    text-align: center;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 18px;
+    outline: none;
+    font-weight: 600;
+}
+.number-quality {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.number-quality p {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--text-color-gray);
+}
+.add-buy .row {
+    width: 60%;
+    height: 3rem;
+}
+.add-buy .row .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add-buy .row .add {
+    background-color: var(--primary-color);
+    border-radius: 10px;
+    color: var(--color-background);
+    font-weight: 700;
+}
+.add-buy .row .buy {
+    background-color: var(--color-orange);
+    border-radius: 10px;
+    color: var(--color-background);
+    font-weight: 700;
+}
+
+.Infor-Shop-Container .row {
+    margin: 2px;
+    background-color: var(--color-white);
+}
+.row.ISC-left {
+    border-right: 1px solid var(--color-background);
+}
+.Logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid var(--text-color-gray);
+    object-fit: cover;
+}
+.ISC-left .Logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-shops {
+    display: flex;
+    align-items: center;
+}
+.col-12.shop-name {
+    color: var(--color-black);
+    font-style: 1rem;
+    font-weight: 700;
+}
+
+.col-6.massage-shop .btn {
+    width: 100%;
+    background-color: var(--primary-color);
+    color: var(--color-white);
+    font-size: 0.6rem;
+}
+.col-6.go-shop .btn {
+    width: 100%;
+    background-color: var(--color-orange);
+    color: var(--color-white);
+    font-size: 0.6rem;
+}
+.rating-shop p {
+    display: flex;
+}
+.ISC-right {
+    height: 100%;
+}
+.ISC-right .row {
+    height: 100%;
+}
+.ISC-right .row .col-4 {
+    display: flex;
+    align-items: center;
+}

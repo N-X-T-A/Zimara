@@ -1,0 +1,2271 @@
+{
+    "Shops": [
+        {
+            "idshop": 11,
+            "name": "Apple Flagship Store",
+            "logo": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "rating": 4.5,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "10k",
+            "join": "6 năm trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "25.123.000.000",
+                    "revenue2monthsago": "24.123.000.000",
+                    "revenue3monthsago": "31.123.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 11001,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Điện Thoại",
+                    "titleproducts": "Apple iPhone 15 Pro Max 256GB Chính hãng VN/A",
+                    "describe": "Apple iPhone 15 Pro Max 256GB",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Natural Titanium": {
+                                "idtype": 11001001,
+                                "price": {
+                                    "original": "31.790.000",
+                                    "fakeprice": "39.790.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Blue Titanium": {
+                                "idtype": 11001002,
+                                "price": {
+                                    "original": "32.790.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "7"
+                            },
+                            "White Titanium": {
+                                "idtype": 11001003,
+                                "price": {
+                                    "original": "33.790.000",
+                                    "fakeprice": "30.790.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Black Titanium": {
+                                "idtype": 11001004,
+                                "price": {
+                                    "original": "34.790.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11002,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmd1u9d70au72d_tn.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Tai Nghe",
+                    "titleproducts": "Tai nghe Apple AirPods with Charging Case 2nd gen",
+                    "describe": "Tai nghe Apple AirPods with Charging Case 2nd gen",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "White": {
+                                "idtype": 11002001,
+                                "price": {
+                                    "original": "2.790.000",
+                                    "fakeprice": "4.390.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "1023"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11003,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/00d05024f492dcec4efae04c1521b66a_tn.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Tai Nghe",
+                    "titleproducts": "Tai nghe AirPods Pro (thế hệ thứ 2) với Hộp Sạc MagSafe (USB-C)",
+                    "describe": "Tai nghe Apple AirPods with Charging Case 2nd gen",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "White": {
+                                "idtype": 11003001,
+                                "price": {
+                                    "original": "5.690.000",
+                                    "fakeprice": "6.199.000"
+                                },
+                                "sold": "20",
+                                "return": "4",
+                                "Quality": "605"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11004,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llm05p5nq118f5.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llm05p5nomgs9c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llm05p5nltbw4f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llm05p5nkerg1c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llm05p5nsu6437.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Điện Thoại",
+                    "titleproducts": "Điện thoại Apple iPhone 15 128GB",
+                    "describe": "Điện thoại Apple iPhone 15 128GB",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Xanh Dương": {
+                                "idtype": 11004001,
+                                "price": {
+                                    "original": "20.390.000",
+                                    "fakeprice": "22.999.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "13"
+                            },
+                            "Hồng": {
+                                "idtype": 11004002,
+                                "price": {
+                                    "original": "20.390.000",
+                                    "fakeprice": "22.999.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "7"
+                            },
+                            "Vàng": {
+                                "idtype": 11004003,
+                                "price": {
+                                    "original": "20.390.000",
+                                    "fakeprice": "22.999.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "70"
+                            },
+                            "Xanh Lá": {
+                                "idtype": 11004004,
+                                "price": {
+                                    "original": "20.390.000",
+                                    "fakeprice": "22.999.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "77"
+                            },
+                            "Đen": {
+                                "idtype": 11004005,
+                                "price": {
+                                    "original": "20.390.000",
+                                    "fakeprice": "22.999.000"
+                                },
+                                "sold": "100",
+                                "return": "2",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11005,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/b9245889043f87930168547032a5843e.webp",
+                        "https://down-vn.img.susercontent.com/file/1cba156175a5ef0b0d356b52451b4c42.webp",
+                        "https://down-vn.img.susercontent.com/file/b09430e3c8c8dba7b6dc87d25cd8cb0e.webp",
+                        "https://down-vn.img.susercontent.com/file/d3ebf604bcc0fcc5420cd0e680ef501a.webp",
+                        "https://down-vn.img.susercontent.com/file/26b018e5decbecf17fb8f72117f8ea10.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "LapTop",
+                    "titleproducts": "Apple Macbook Air (2022) M2 chip, 13.6 inches, 8GB, 256GB SSD",
+                    "describe": "Máy tính xách tay Apple Macbook Air (2022) M2 chip, 13.6 inches, 8GB, 256GB SSD",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Silver": {
+                                "idtype": 11005001,
+                                "price": {
+                                    "original": "24.990.000",
+                                    "fakeprice": "32.990.000"
+                                },
+                                "sold": "50",
+                                "return": "1",
+                                "Quality": "6"
+                            },
+                            "Space Gray": {
+                                "idtype": 11005002,
+                                "price": {
+                                    "original": "24.990.000",
+                                    "fakeprice": "32.990.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "6"
+                            },
+                            "Starlight": {
+                                "idtype": 11005003,
+                                "price": {
+                                    "original": "24.990.000",
+                                    "fakeprice": "32.990.000"
+                                },
+                                "sold": "30",
+                                "return": "1",
+                                "Quality": "7"
+                            },
+                            "Midnight": {
+                                "idtype": 11005004,
+                                "price": {
+                                    "original": "24.990.000",
+                                    "fakeprice": "32.990.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11006,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/38a51fee63a623600932f1aea78d76a9.webp",
+                        "https://down-vn.img.susercontent.com/file/b46eef299808bc1751af1b5e9dce6cde.webp",
+                        "https://down-vn.img.susercontent.com/file/5e1b81fa44eb632009b2eeec30edef2f.webp",
+                        "https://down-vn.img.susercontent.com/file/ae538aa64c0ce480fd22bb5f0e8430d7.webp",
+                        "https://down-vn.img.susercontent.com/file/4869283ee2d5359f3faadacf22bcc19b.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Máy Tính Bảng",
+                    "titleproducts": "Apple iPad Gen 9th 10.2-inch Wi-Fi 64GB",
+                    "describe": "Máy tính bảng Apple iPad Gen 9th 10.2-inch Wi-Fi 64GB",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Silver": {
+                                "idtype": 11006001,
+                                "price": {
+                                    "original": "7.390.000",
+                                    "fakeprice": "11.990.000"
+                                },
+                                "sold": "50",
+                                "return": "1",
+                                "Quality": "111 "
+                            },
+                            "Space Gray": {
+                                "idtype": 11006002,
+                                "price": {
+                                    "original": "11.990.000",
+                                    "fakeprice": "11.990.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "42 "
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11007,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8b27j9sf6g3e.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8b27j9ttqw97.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8b27j9v8bc9a.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8b27j9wmvsf9.webp",
+                        "https://down-vn.img.susercontent.com/file/f07ff729cd5dfb910515db789451c2c7.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Đồng Hồ Thông Minh",
+                    "titleproducts": "Apple Watch SE (2023)",
+                    "describe": "Đồng hồ Apple Watch SE (2023) 40mm (GPS) Viền nhôm - Dây cao su - Size S/M",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Midnight": {
+                                "idtype": 11007001,
+                                "price": {
+                                    "original": "6.390.000",
+                                    "fakeprice": "6.690.000"
+                                },
+                                "sold": "50",
+                                "return": "1",
+                                "Quality": "2"
+                            },
+                            "Starlight": {
+                                "idtype": 11007001,
+                                "price": {
+                                    "original": "6.390.000",
+                                    "fakeprice": "6.690.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "42 "
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11008,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdxr-lziiy1pux3g77f.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdxi-lziiy3my5ei277.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdyv-lziiy56fw6y0cc.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdx5-lziiym0p906gc8.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdx1-lziiyo0ua0x880.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Mini PC",
+                    "titleproducts": "Mini PC Apple Mac M2 Z16K0005U",
+                    "describe": "Mini PC Apple Mac M2 Z16K0005U (8 Core/ 16GB/ 256Gb SSD)",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "White": {
+                                "idtype": 11008001,
+                                "price": {
+                                    "original": "19.390.000",
+                                    "fakeprice": "24.990.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "7"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11009,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdw4-m01cupmnad4w07.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdwa-m01cuy3krx3d85.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdyh-m01cv6k8gwxf72.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdym-m01cvkhw1du104.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rdxw-m01cvswvolked5.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Điện Thoại",
+                    "titleproducts": "Apple iPhone 16 512GB",
+                    "describe": "Điện thoại Apple iPhone 16 512GB",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Đen": {
+                                "idtype": 11009001,
+                                "price": {
+                                    "original": "31.999.000"
+                                },
+                                "sold": "0",
+                                "return": "0",
+                                "Quality": "1"
+                            },
+                            "Trắng": {
+                                "idtype": 11009002,
+                                "price": {
+                                    "original": "31.999.000"
+                                },
+                                "sold": "0",
+                                "return": "0",
+                                "Quality": "1"
+                            },
+                            "Hồng": {
+                                "idtype": 11009003,
+                                "price": {
+                                    "original": "31.999.000"
+                                },
+                                "sold": "0",
+                                "return": "0",
+                                "Quality": "1"
+                            },
+                            "Xanh Lưu Ly": {
+                                "idtype": 11009004,
+                                "price": {
+                                    "original": "31.999.000"
+                                },
+                                "sold": "0",
+                                "return": "0",
+                                "Quality": "1"
+                            },
+                            "Xanh Mòng Két": {
+                                "idtype": 11009005,
+                                "price": {
+                                    "original": "31.999.000"
+                                },
+                                "sold": "0",
+                                "return": "0",
+                                "Quality": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11010,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd69-lv4csjgkgu68d9.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6b-lv4cskusfcot21.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6m-lv4csmf44x1xe8.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd5d-lv4csnlkesow14.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6c-lv4csq2csv2t38.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Máy Tính Bảng",
+                    "titleproducts": "IPad Pro 2024",
+                    "describe": "Máy tính bảng iPad Pro 2024, M4 chip,11 inch, 256GB",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Silver": {
+                                "idtype": 11010001,
+                                "price": {
+                                    "original": "28.690.000",
+                                    "fakeprice": "28.999.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "24"
+                            },
+                            "Space Black": {
+                                "idtype": 11010002,
+                                "price": {
+                                    "original": "28.690.000",
+                                    "fakeprice": "28.999.000"
+                                },
+                                "sold": "20",
+                                "return": "1",
+                                "Quality": "36"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11011,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/31a3dceea2d3bd9b4b52ea3616d4cca8@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6b-lv4cskusfcot21.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6m-lv4csmf44x1xe8.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd5d-lv4csnlkesow14.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6c-lv4csq2csv2t38.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Phụ Kiện Điện Thoại",
+                    "titleproducts": "Ốp Lưng MagSafe cho iPhone 15 Pro",
+                    "describe": "Ốp Lưng MagSafe cho iPhone 15 Pro",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Trong Suốt": {
+                                "idtype": 11011001,
+                                "price": {
+                                    "original": "650.000",
+                                    "fakeprice": "1.429.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 11012,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/31a3dceea2d3bd9b4b52ea3616d4cca8@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6b-lv4cskusfcot21.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6m-lv4csmf44x1xe8.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd5d-lv4csnlkesow14.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134301-7rd6c-lv4csq2csv2t38.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Phụ Kiện Điện Thoại",
+                    "titleproducts": "Ốp Lưng MagSafe cho iPhone 15 Pro",
+                    "describe": "Ốp Lưng MagSafe cho iPhone 15 Pro",
+                    "brand": "Apple",
+                    "colors": [
+                        {
+                            "Trong Suốt": {
+                                "idtype": 11012001,
+                                "price": {
+                                    "original": "650.000",
+                                    "fakeprice": "1.429.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "1"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 12,
+            "name": "SAMSUNG OFFICIAL STORE",
+            "logo": "https://down-vn.img.susercontent.com/file/3726d6431bdcf83820c359d9c5a773ad@resize_w80_nl.webp",
+            "rating": 4.7,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "10k",
+            "join": "6 năm trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "25.123.000.000",
+                    "revenue2monthsago": "24.123.000.000",
+                    "revenue3monthsago": "31.123.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 12001,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031xh40qvhp84.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031xh40qvhp84.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031xh40qvhp84.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031xh40qvhp84.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031xh40qvhp84.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Điện Thoại",
+                    "titleproducts": "Samsung Galaxy S24 Ultra",
+                    "describe": "Điện thoại Samsung Galaxy S24 Ultra 12GB/256GB",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Vàng": {
+                                "idtype": 12001001,
+                                "price": {
+                                    "original": "33.990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Xám": {
+                                "idtype": 1112,
+                                "price": {
+                                    "original": "33.990.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "7"
+                            },
+                            "Đen": {
+                                "idtype": 12001002,
+                                "price": {
+                                    "original": "33.990.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Tím": {
+                                "idtype": 12001003,
+                                "price": {
+                                    "original": "33.990.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12002,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Tai Nghe",
+                    "titleproducts": "Samsung Galaxy Buds FE Bluetooth",
+                    "describe": "Tai nghe Samsung Galaxy Buds FE Bluetooth",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Trắng": {
+                                "idtype": 12002001,
+                                "price": {
+                                    "original": "1.990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen": {
+                                "idtype": 12002002,
+                                "price": {
+                                    "original": "1.990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12003,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrkymznyaa4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrlr7tude8c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrj19t6es60.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrjy0h9kk05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrm9j31mq17.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Tai Nghe",
+                    "titleproducts": "Samsung Galaxy Buds2 Pro Bluetooth",
+                    "describe": "Tai nghe Samsung Galaxy Buds2 Pro Bluetooth",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Trắng": {
+                                "idtype": 12003001,
+                                "price": {
+                                    "original": "4.990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen": {
+                                "idtype": 12003002,
+                                "price": {
+                                    "original": "4.990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12004,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lw5p6ma0auvt96.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrlr7tude8c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrj19t6es60.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrjy0h9kk05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ljijrm9j31mq17.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Điện Thoại",
+                    "titleproducts": "SamSung Galaxy A55 5G",
+                    "describe": "Galaxy A55 5G phiên bản giới hạn Gaming RƯƠNG AWESOME - Bộ quà trị giá 1.6 triệu đồng",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Navi": {
+                                "idtype": 12004001,
+                                "price": {
+                                    "original": "10.290.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Ice Blue": {
+                                "idtype": 12004002,
+                                "price": {
+                                    "original": "10.290.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12005,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Đồng Hồ Thông Minh",
+                    "titleproducts": "Samsung Galaxy Fit3",
+                    "describe": "Đồng hồ Samsung Galaxy Fit3",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Sliver": {
+                                "idtype": 12005001,
+                                "price": {
+                                    "original": "1.390.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            },
+                            "Gray": {
+                                "idtype": 12005002,
+                                "price": {
+                                    "original": "10.290.000"
+                                },
+                                "sold": "50",
+                                "return": "10",
+                                "Quality": "0"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12006,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzskr6gjm0y584.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzskr6gjm0y584.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzskr6gjm0y584.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzskr6gjm0y584.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzskr6gjm0y584.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Gia Dụng",
+                    "titleproducts": "Samsung Powerbot-E",
+                    "describe": "Robot hút bụi, lau sàn Samsung Powerbot-E lực hút cực mạnh 4200Pa (VR05R5050WK)",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Black": {
+                                "idtype": 12006001,
+                                "price": {
+                                    "original": "4.590.000",
+                                    "fakeprice": "7.890.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12007,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "Gia Dụng",
+                    "titleproducts": "Samsung Inverter 236 lít RT22M4032BY/SV",
+                    "describe": "Tủ lạnh Samsung Inverter 236 lít RT22M4032BY/SV - Miễn phí lắp đặt",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Black": {
+                                "idtype": 12007001,
+                                "price": {
+                                    "original": "6.190.000",
+                                    "fakeprice": "9.389.600"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12008,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/8d3afc66113e36bcf0af60c943853510.webp",
+                        "https://down-vn.img.susercontent.com/file/8d3afc66113e36bcf0af60c943853510.webp",
+                        "https://down-vn.img.susercontent.com/file/8d3afc66113e36bcf0af60c943853510.webp",
+                        "https://down-vn.img.susercontent.com/file/8d3afc66113e36bcf0af60c943853510.webp",
+                        "https://down-vn.img.susercontent.com/file/8d3afc66113e36bcf0af60c943853510.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "TV",
+                    "titleproducts": "Samsung Crystal UHD 4K UA65AU7700KXXV ",
+                    "describe": "Smart Tivi Samsung Crystal UHD 4K 65 inch UA65AU7700KXXV - Miễn phí lắp đặt",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Black": {
+                                "idtype": 12008001,
+                                "price": {
+                                    "original": "26.900.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 12009,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031ydf5gs5r2b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031ydf5gs5r2b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031ydf5gs5r2b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031ydf5gs5r2b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m031ydf5gs5r2b.webp"
+                    ],
+                    "parentCategory": "Điện Tử",
+                    "subCategory": "TV",
+                    "titleproducts": "Samsung Galaxy Tab S9 Wifi 128GB ",
+                    "describe": "Máy tính bảng Samsung Galaxy Tab S9 Wifi 128GB",
+                    "brand": "SamSung",
+                    "colors": [
+                        {
+                            "Black": {
+                                "idtype": 12009001,
+                                "price": {
+                                    "original": "19.990.000"
+                                },
+                                "sold": "20",
+                                "return": "0",
+                                "Quality": "18"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 13,
+            "name": "MLB Vietnam",
+            "logo": "https://down-bs-vn.img.susercontent.com/689b8e0cf0e6ab44046af6cb5a87d4a2_tn.webp",
+            "rating": 4.8,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "329,7k",
+            "join": "17 Tháng Trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "103.000.000",
+                    "revenue2monthsago": "133.000.000",
+                    "revenue3monthsago": "203.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 13001,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Thời Trang Nam",
+                    "titleproducts": "MLB - Áo thun nam cổ tròn tay ngắn thời trang",
+                    "describe": " 3ATSE0134-50BKS MLB - Áo thun nam cổ tròn tay ngắn thời trang",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen - S": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - M ": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "2"
+                            },
+                            "Đen - L": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Đen - XL": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13002,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Nón",
+                    "titleproducts": "MLB - Nón bóng chày Rookie Unstructured",
+                    "describe": " 3ACP7701N-43BRD MLB - Nón bóng chày Rookie Unstructured",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Nâu Đất": {
+                                "idtype": 13002001,
+                                "price": {
+                                    "original": "650.000",
+                                    "fakeprice": "939.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13003,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Nón",
+                    "titleproducts": "MLB - Nón bóng chày unisex Mega Bear Unstructured",
+                    "describe": "3ACPB023N-07GND MLB - Nón bóng chày unisex Mega Bear Unstructured",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Xanh Rêu": {
+                                "idtype": 13003001,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13004,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Thời Trang Nữ",
+                    "titleproducts": "MLB - Áo thun nữ cổ tròn tay ngắn Basic Small Logo",
+                    "describe": " 3ATSB0243-50BKS MLB - Áo thun unisex cổ tròn tay ngắn Basic Small Logo",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen - S": {
+                                "idtype": 13004001,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - M": {
+                                "idtype": 13004002,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - L": {
+                                "idtype": 13004003,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - XL": {
+                                "idtype": 13004004,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13005,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tte2k72bz03.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tte2k72bz03.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tte2k72bz03.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tte2k72bz03.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tte2k72bz03.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Túi Xách",
+                    "titleproducts": "MLB - Túi đeo vai chữ nhật Monogram Jacquard Hobo",
+                    "describe": "3ABQS012N-50BKS MLB - Túi đeo vai chữ nhật Monogram Jacquard Hobo 3ABQS012N-50BKS",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen Họa Tiết": {
+                                "idtype": 13005001,
+                                "price": {
+                                    "original": "2.590.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13006,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nữ",
+                    "titleproducts": "Giày Converse Chuck Taylor All Star Gran-Z High-Top)",
+                    "describe": "Giày Converse Chuck Taylor All Star Gran-Z High-Top ( Full box)",
+                    "brand": "Converse",
+                    "colors": [
+                        {
+                            "Gran-Z High-Top": {
+                                "idtype": 12006001,
+                                "price": {
+                                    "original": "690.000",
+                                    "fakeprice": "1.200.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13007,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/c7ae65a5f29a35f9b0bac4545420e7a4.webp",
+                        "https://down-vn.img.susercontent.com/file/c7ae65a5f29a35f9b0bac4545420e7a4.webp",
+                        "https://down-vn.img.susercontent.com/file/c7ae65a5f29a35f9b0bac4545420e7a4.webp",
+                        "https://down-vn.img.susercontent.com/file/c7ae65a5f29a35f9b0bac4545420e7a4.webp",
+                        "https://down-vn.img.susercontent.com/file/c7ae65a5f29a35f9b0bac4545420e7a4.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nam",
+                    "titleproducts": "Giày Converse Chuck 70 Black",
+                    "describe": "Giày Converse Chuck 70 Black - 162058C",
+                    "brand": "Converse",
+                    "colors": [
+                        {
+                            "Black - 36": {
+                                "idtype": 13007001,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 37": {
+                                "idtype": 13007002,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 38": {
+                                "idtype": 13007003,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 39": {
+                                "idtype": 13007004,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 40": {
+                                "idtype": 13007005,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 41": {
+                                "idtype": 13007006,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13008,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nam",
+                    "titleproducts": "Onitsuka Tiger Mexico 66 - Black Beige ",
+                    "describe": "[GeekSneaker] Giày Sneaker cổ thấp Onitsuka Tiger Mexico 66 - Black Beige (Đen be)",
+                    "brand": "Onitsuka Tiger",
+                    "colors": [
+                        {
+                            "Đen Be - 36": {
+                                "idtype": 13008001,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 37": {
+                                "idtype": 13008002,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 38": {
+                                "idtype": 13008003,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 39": {
+                                "idtype": 13008004,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 40": {
+                                "idtype": 13008005,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 41": {
+                                "idtype": 13008006,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 13,
+            "name": "MLB Vietnam",
+            "logo": "https://down-bs-vn.img.susercontent.com/689b8e0cf0e6ab44046af6cb5a87d4a2_tn.webp",
+            "rating": 4.8,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "329,7k",
+            "join": "17 Tháng Trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "103.000.000",
+                    "revenue2monthsago": "133.000.000",
+                    "revenue3monthsago": "203.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 13001,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyub20eylajl54.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Thời Trang Nam",
+                    "titleproducts": "MLB - Áo thun nam cổ tròn tay ngắn thời trang",
+                    "describe": " 3ATSE0134-50BKS MLB - Áo thun nam cổ tròn tay ngắn thời trang",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen - S": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - M ": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "2"
+                            },
+                            "Đen - L": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "10",
+                                "Quality": "8"
+                            },
+                            "Đen - XL": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "900.000",
+                                    "fakeprice": "1.290.000"
+                                },
+                                "sold": "100",
+                                "return": "15",
+                                "Quality": "9"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13002,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lyuawnbmq8ul04.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Nón",
+                    "titleproducts": "MLB - Nón bóng chày Rookie Unstructured",
+                    "describe": " 3ACP7701N-43BRD MLB - Nón bóng chày Rookie Unstructured",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Nâu Đất": {
+                                "idtype": 13002001,
+                                "price": {
+                                    "original": "650.000",
+                                    "fakeprice": "939.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13003,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tr5laebxp6f.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Nón",
+                    "titleproducts": "MLB - Nón bóng chày unisex Mega Bear Unstructured",
+                    "describe": "3ACPB023N-07GND MLB - Nón bóng chày unisex Mega Bear Unstructured",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Xanh Rêu": {
+                                "idtype": 13003001,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13004,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-m02tqtv95vgvd4.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Thời Trang Nữ",
+                    "titleproducts": "MLB - Áo thun nữ cổ tròn tay ngắn Basic Small Logo",
+                    "describe": " 3ATSB0243-50BKS MLB - Áo thun unisex cổ tròn tay ngắn Basic Small Logo",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen - S": {
+                                "idtype": 13004001,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - M": {
+                                "idtype": 13004002,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - L": {
+                                "idtype": 13004003,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - XL": {
+                                "idtype": 13004004,
+                                "price": {
+                                    "original": "990.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13005,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ls9qca84av8970@resize_w450_nl.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Túi Xách",
+                    "titleproducts": "MLB - Túi đeo vai chữ nhật Monogram Jacquard Hobo",
+                    "describe": "3ABQS012N-50BKS MLB - Túi đeo vai chữ nhật Monogram Jacquard Hobo 3ABQS012N-50BKS",
+                    "brand": "MLB",
+                    "colors": [
+                        {
+                            "Đen Họa Tiết": {
+                                "idtype": 13005001,
+                                "price": {
+                                    "original": "2.590.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13006,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lo1rbbv7obcq2c.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nữ",
+                    "titleproducts": "Giày Converse Chuck Taylor All Star Gran-Z High-Top)",
+                    "describe": "Giày Converse Chuck Taylor All Star Gran-Z High-Top ( Full box)",
+                    "brand": "Converse",
+                    "colors": [
+                        {
+                            "Gran-Z High-Top": {
+                                "idtype": 12006001,
+                                "price": {
+                                    "original": "690.000",
+                                    "fakeprice": "1.200.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13007,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzsl7bx0radp6b.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nam",
+                    "titleproducts": "Giày Converse Chuck 70 Black",
+                    "describe": "Giày Converse Chuck 70 Black - 162058C",
+                    "brand": "Converse",
+                    "colors": [
+                        {
+                            "Black - 36": {
+                                "idtype": 13007001,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 37": {
+                                "idtype": 13007002,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 38": {
+                                "idtype": 13007003,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 39": {
+                                "idtype": 13007004,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 40": {
+                                "idtype": 13007005,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Black - 41": {
+                                "idtype": 13007006,
+                                "price": {
+                                    "original": "1.577.000",
+                                    "fakeprice": "1.900.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13008,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq7685jpgkia05.webp"
+                    ],
+                    "parentCategory": "Giày Dép",
+                    "subCategory": "Giày Nam",
+                    "titleproducts": "Onitsuka Tiger Mexico 66 - Black Beige ",
+                    "describe": "[GeekSneaker] Giày Sneaker cổ thấp Onitsuka Tiger Mexico 66 - Black Beige (Đen be)",
+                    "brand": "Onitsuka Tiger",
+                    "colors": [
+                        {
+                            "Đen Be - 36": {
+                                "idtype": 13008001,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 37": {
+                                "idtype": 13008002,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 38": {
+                                "idtype": 13008003,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 39": {
+                                "idtype": 13008004,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 40": {
+                                "idtype": 13008005,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Đen Be - 41": {
+                                "idtype": 13008006,
+                                "price": {
+                                    "original": "549.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "idshop": 14,
+            "name": "Shop Sport",
+            "logo": "https://down-bs-vn.img.susercontent.com/689b8e0cf0e6ab44046af6cb5a87d4a2_tn.webp",
+            "rating": 4.8,
+            "evaluate": "10k",
+            "sold": "86,7k",
+            "follower": "329,7k",
+            "join": "17 Tháng Trước",
+            "revenue": [
+                {
+                    "lastmonth'srevenue": "103.000.000",
+                    "revenue2monthsago": "133.000.000",
+                    "revenue3monthsago": "203.000.000"
+                }
+            ],
+            "Deals": ["50k", "100k", "200k", "500k", "50k"],
+            "Product": [
+                {
+                    "id-item": 14001,
+                    "badge": "Sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsijolaxqbp43.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsijolaxqbp43.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsijolaxqbp43.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsijolaxqbp43.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhsijolaxqbp43.webp"
+                    ],
+                    "parentCategory": "Thể Thao - Du Lịch",
+                    "subCategory": "Dụng Cụ Thể Thao",
+                    "titleproducts": "Combo Đai Bảo Vệ Vòng 1 Và Dây Nhảy ",
+                    "describe": "Combo Đai Bảo Vệ Vòng 1 Và Dây Nhảy Đếm Số Đo Calo, Đai Chống Gù Lưng (Tặng Kèm Đầy Đủ Phụ Kiện)",
+                    "brand": "Khác",
+                    "colors": [
+                        {
+                            "Hồng": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "132.000",
+                                    "fakeprice": "180.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen": {
+                                "idtype": 13001001,
+                                "price": {
+                                    "original": "132.000",
+                                    "fakeprice": "180.000"
+                                },
+                                "sold": "100",
+                                "return": "5",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14002,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwsblhp00ycbef.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwsblhp00ycbef.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwsblhp00ycbef.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwsblhp00ycbef.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwsblhp00ycbef.webp"
+                    ],
+                    "parentCategory": "Thời Trang",
+                    "subCategory": "Thời Trang Nữ",
+                    "titleproducts": "Quần legging đùi ECOCHIC",
+                    "describe": "Quần legging đùi ECOCHIC nữ cạp cao gen bụng tập gym yoga chất liệu su đúc định hình nâng mông",
+                    "brand": "ECOCHIC",
+                    "colors": [
+                        {
+                            "Đen - M ": {
+                                "idtype": 14002001,
+                                "price": {
+                                    "original": "111.000",
+                                    "fakeprice": "150.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - S ": {
+                                "idtype": 14002002,
+                                "price": {
+                                    "original": "111.000",
+                                    "fakeprice": "150.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - L ": {
+                                "idtype": 14002003,
+                                "price": {
+                                    "original": "111.000",
+                                    "fakeprice": "150.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            },
+                            "Đen - XL ": {
+                                "idtype": 14002004,
+                                "price": {
+                                    "original": "111.000",
+                                    "fakeprice": "150.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14003,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lj2phep6fl2y8e.webp",
+                        "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lj2phep6fl2y8e.webp",
+                        "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lj2phep6fl2y8e.webp",
+                        "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lj2phep6fl2y8e.webp",
+                        "https://down-vn.img.susercontent.com/file/cn-11134207-7qukw-lj2phep6fl2y8e.webp"
+                    ],
+                    "parentCategory": "Sắc Đẹp",
+                    "subCategory": "Sữa Rửa Mặt",
+                    "titleproducts": "Sữa Rửa Mặt Làm Trắng Da A740",
+                    "describe": "Sữa Rửa Mặt Làm Trắng Da, Tẩy tế bào chết Tàn nhang Kiểm soát dầu Làm trắng Nhiều tùy chọn A740",
+                    "brand": "SENANA",
+                    "colors": [
+                        {
+                            "60g": {
+                                "idtype": 14003001,
+                                "price": {
+                                    "original": "7.900"
+                                },
+                                "sold": "200",
+                                "return": "20",
+                                "Quality": "100"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14004,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ixucelane543.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ixucelane543.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ixucelane543.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ixucelane543.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ixucelane543.webp"
+                    ],
+                    "parentCategory": "Sắc Đẹp",
+                    "subCategory": "Nước Tẩy Trang",
+                    "titleproducts": "Klairs Supple Preparation Unscented Toner",
+                    "describe": "Nước hoa hồng Dear, Klairs Supple Preparation Unscented Toner 180ml",
+                    "brand": "Klairs",
+                    "colors": [
+                        {
+                            "180 ml": {
+                                "idtype": 13004001,
+                                "price": {
+                                    "original": "290.000",
+                                    "fakeprice": "435.000"
+                                },
+                                "sold": "100",
+                                "return": "20",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14005,
+                    "badge": "Normal",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpz29zahsr0y5f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpz29zahsr0y5f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpz29zahsr0y5f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpz29zahsr0y5f.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpz29zahsr0y5f.webp"
+                    ],
+                    "parentCategory": "Sức Khỏe",
+                    "subCategory": "Khẩu Trang",
+                    "titleproducts": "Khẩu Trang 5D 3 Lớp Kháng Khuẩn Người Lớn",
+                    "describe": "Sỉ 100 Cái Khẩu Trang 5D Thái - Khẩu Trang 5D 3 Lớp Kháng Khuẩn Người Lớn",
+                    "brand": "CAREION",
+                    "colors": [
+                        {
+                            "Trắng": {
+                                "idtype": 14005001,
+                                "price": {
+                                    "original": "1.000",
+                                    "fakeprice": "9.000"
+                                },
+                                "sold": "1000",
+                                "return": "200",
+                                "Quality": "1000"
+                            },
+                            "Đen": {
+                                "idtype": 14005002,
+                                "price": {
+                                    "original": "1.000",
+                                    "fakeprice": "9.000"
+                                },
+                                "sold": "1000",
+                                "return": "200",
+                                "Quality": "1000"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14006,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzbnenj3tin536.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzbnenj3tin536.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzbnenj3tin536.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzbnenj3tin536.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzbnenj3tin536.webp"
+                    ],
+                    "parentCategory": "Bách Hóa",
+                    "subCategory": "Sữa",
+                    "titleproducts": "Sữa gấu Nestle thái lan 140ml",
+                    "describe": "[Lẻ 1 Lon] Sữa gấu Nestle thái lan 140ml",
+                    "brand": "Nestle",
+                    "colors": [
+                        {
+                            "Vàng - Canxi": {
+                                "idtype": 12006001,
+                                "price": {
+                                    "original": "13.200",
+                                    "fakeprice": "20.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            },
+                            "Xanh - Ít Béo": {
+                                "idtype": 12006001,
+                                "price": {
+                                    "original": "13.200",
+                                    "fakeprice": "20.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "6"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 14007,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/sg-11134201-7rbln-low0q5zn0f9i4c.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134201-7rbln-low0q5zn0f9i4c.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134201-7rbln-low0q5zn0f9i4c.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134201-7rbln-low0q5zn0f9i4c.webp",
+                        "https://down-vn.img.susercontent.com/file/sg-11134201-7rbln-low0q5zn0f9i4c.webp"
+                    ],
+                    "parentCategory": "Sách",
+                    "subCategory": "Nhãn Dán",
+                    "titleproducts": "Miếng Dán Chống Thấm Nước Hình Mèo Dễ Thương",
+                    "describe": "Bộ Miếng Dán Chống Thấm Nước Hình Mèo Dễ Thương Trang Trí Sổ Tay / Mũ Bảo Hiểm / Laptop / Mũ Bảo Hiểm DIY",
+                    "brand": "Khác",
+                    "colors": [
+                        {
+                            "Bộ 60 Miếng": {
+                                "idtype": 13007001,
+                                "price": {
+                                    "original": "16.000",
+                                    "fakeprice": "28.000"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            },
+                            "Bộ 120 Miếng": {
+                                "idtype": 13007001,
+                                "price": {
+                                    "original": "30.000",
+                                    "fakeprice": "50.00"
+                                },
+                                "sold": "10",
+                                "return": "2",
+                                "Quality": "35"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id-item": 13008,
+                    "badge": "sale",
+                    "image-products": [
+                        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lii61edy79cc51.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lii61edy79cc51.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lii61edy79cc51.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lii61edy79cc51.webp",
+                        "https://down-vn.img.susercontent.com/file/vn-11134211-7qukw-lii61edy79cc51.webp"
+                    ],
+                    "parentCategory": "Sách",
+                    "subCategory": "Sách Tâm Lý",
+                    "titleproducts": "Sách Đắc Nhân Tâm",
+                    "describe": "Sách Đắc Nhân Tâm",
+                    "brand": "Dale Carnegie",
+                    "colors": [
+                        {
+                            "Khổ Lớn": {
+                                "idtype": 13008001,
+                                "price": {
+                                    "original": "62.780",
+                                    "fakeprice": "90.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            },
+                            "Khổ Nhỏ": {
+                                "idtype": 13008001,
+                                "price": {
+                                    "original": "42.780",
+                                    "fakeprice": "70.000"
+                                },
+                                "sold": "10",
+                                "return": "0",
+                                "Quality": "2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Users": [
+        {
+            "userid": 10000000001,
+            "loginname": "itachis1",
+            "password": "Saladass1..",
+            "email": "ncat08122002@gmail.com",
+            "phonenumber": "0981583462",
+            "gender": ["nam", "nữ"],
+            "dateofbirth": "08-12-2002",
+            "username": "Nguyễn Văn A",
+            "imageuser": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "address": "11 Bạch Đằng",
+            "ward": "7",
+            "city": "Đà Lạt",
+            "conscious": "Lâm Đồng",
+            "oders": [
+                {
+                    "odderid": 100000001,
+                    "status": "pending",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000002,
+                    "status": "canceled",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000003,
+                    "status": "completed",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000004,
+                    "status": "shipping",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "userid": 10000000002,
+            "loginname": "itachis1",
+            "password": "Saladass1..",
+            "email": "ncat08122002@gmail.com",
+            "phonenumber": "0981583462",
+            "gender": ["nam", "nữ"],
+            "dateofbirth": "08-12-2002",
+            "username": "Nguyễn Văn A",
+            "imageuser": "https://down-vn.img.susercontent.com/file/62160f74aa5cffa160b2062658d2be75@resize_w80_nl.webp",
+            "address": "11 Bạch Đằng",
+            "ward": "7",
+            "city": "Đà Lạt",
+            "conscious": "Lâm Đồng",
+            "oders": [
+                {
+                    "odderid": 100000005,
+                    "status": "pending",
+                    "idshop": 11,
+                    "name": "ACER FLAGSHIP HCH STORE'",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljghvd9tn3eqd4",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Đen": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "20.041.900 ₫" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000006,
+                    "status": "canceled",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titanium": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "odderid": 100000007,
+                    "status": "completed",
+                    "idshop": 11,
+                    "name": "Apple Flagship Store",
+                    "product": [
+                        {
+                            "id-item": 111,
+                            "image-products": [
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llmz8x62m9bw43@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp",
+                                "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lwzxscklh6u30e@resize_w450_nl.webp"
+                            ],
+                            "color": [
+                                {
+                                    "Natural Titaniume": {
+                                        "idtype": 1111,
+                                        "price": { "fakeprice": "30.790.000" },
+                                        "qualitysale": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
